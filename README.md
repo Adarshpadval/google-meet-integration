@@ -4,11 +4,15 @@
 
 This project is a simple web application that integrates Google Meet for chat, voice, and video call sessions. Users can create and join Google Meet sessions directly from the application.
 
+![Google Meet Integration](assets/google-meet-overview.png)
+
 ## Features
 
 - **Create Google Meet Sessions:** Easily schedule new sessions.
 - **Join Sessions:** Access meetings via provided links.
 - **Minimalistic User Interface:** Clean and straightforward design.
+
+![Features](assets/features.png)
 
 ## Technologies Used
 
