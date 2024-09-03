@@ -35,9 +35,22 @@ This project is a simple web application that integrates Google Meet for chat, v
    ```bash
    git clone https://github.com/Adarshpadval/google-meet-integration.git
    cd google-meet-integration
+   
+### For the frontend (google-meet-integration):
+
+Navigate to the google-meet-integration directory in the terminal.
+Run npm install to install dependencies.
+Start the React app with npm start.
+For the backend:
+
+### Navigate to the backend directory in the terminal.
+Run npm install to install dependencies.
+Create a .env file and replace the placeholder values with your actual API keys.
+Start the Node.js server with node index.js.
 
    
 ### Summary of Changes:
 - Added separate setup instructions for the frontend and backend.
 - Included steps to install dependencies and start each part of the application.
 - Updated the instructions to replace keys in the `.env` file.
+  
