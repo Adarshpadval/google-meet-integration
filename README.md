@@ -35,3 +35,9 @@ This project is a simple web application that integrates Google Meet for chat, v
    ```bash
    git clone https://github.com/Adarshpadval/google-meet-integration.git
    cd google-meet-integration
+
+   
+### Summary of Changes:
+- Added separate setup instructions for the frontend and backend.
+- Included steps to install dependencies and start each part of the application.
+- Updated the instructions to replace keys in the `.env` file.
